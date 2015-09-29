@@ -40,6 +40,11 @@ var episode_iterator = 0
 getNextEpisode()
 
 function getNextEpisode() {
+  if (episode_iterator = episodeList.length) {
+    console.log("All done!");
+    return knex.destroy();
+  }
+
   setTimeout(function(){
     var episode = episodeList[episode_iterator++]
     getEpisodeIfNotYetLoaded(episode)
@@ -101,7 +106,6 @@ function createTag(tag){
   var returned = false;
   console.log(tag.title)
   return new Tag().where({
-    title: tag.title,
     url: tag.url
   }).fetch()
   .then(function(data){
