@@ -10,7 +10,8 @@ SELECT num, title FROM episodes
 WHERE id IN (
  SELECT episode_id FROM episode_tags
  WHERE tag_id IN (                                               
-   SELECT id FROM tags                                           WHERE title LIKE 'holodeck'
+   SELECT id FROM tags
+   WHERE title LIKE 'holodeck'
   )
 ) ORDER BY stardate LIMIT 10;
 ```
