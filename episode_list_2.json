@@ -1,0 +1,1410 @@
+[
+  {
+    "title": "Encounter at Farpoint",
+    "url": "/wiki/Encounter_at_Farpoint_(episode)",
+    "stardate": "41153.7",
+    "num": "1x01/02",
+    "airdate": "1987-09-28",
+    "prodno": "41153.7"
+  },
+  {
+    "title": "The Naked Now",
+    "url": "/wiki/The_Naked_Now_(episode)",
+    "stardate": "41209.2",
+    "num": "1x03",
+    "airdate": "1987-10-05",
+    "prodno": "41209.2"
+  },
+  {
+    "title": "Code of Honor",
+    "url": "/wiki/Code_of_Honor_(episode)",
+    "stardate": "41235.25",
+    "num": "1x04",
+    "airdate": "1987-10-12",
+    "prodno": "41235.25"
+  },
+  {
+    "title": "The Last Outpost",
+    "url": "/wiki/The_Last_Outpost_(episode)",
+    "stardate": "41386.4",
+    "num": "1x05",
+    "airdate": "1987-10-19",
+    "prodno": "41386.4"
+  },
+  {
+    "title": "Where No One Has Gone Before",
+    "url": "/wiki/Where_No_One_Has_Gone_Before_(episode)",
+    "stardate": "41263.1",
+    "num": "1x06",
+    "airdate": "1987-10-26",
+    "prodno": "41263.1"
+  },
+  {
+    "title": "Lonely Among Us",
+    "url": "/wiki/Lonely_Among_Us_(episode)",
+    "stardate": "41249.3",
+    "num": "1x07",
+    "airdate": "1987-11-02",
+    "prodno": "41249.3"
+  },
+  {
+    "title": "Justice",
+    "url": "/wiki/Justice_(episode)",
+    "stardate": "41255.6",
+    "num": "1x08",
+    "airdate": "1987-11-09",
+    "prodno": "41255.6"
+  },
+  {
+    "title": "The Battle",
+    "url": "/wiki/The_Battle_(episode)",
+    "stardate": "41723.9",
+    "num": "1x09",
+    "airdate": "1987-11-16",
+    "prodno": "41723.9"
+  },
+  {
+    "title": "Hide and Q",
+    "url": "/wiki/Hide_and_Q_(episode)",
+    "stardate": "41590.5",
+    "num": "1x10",
+    "airdate": "1987-11-23",
+    "prodno": "41590.5"
+  },
+  {
+    "title": "Haven",
+    "url": "/wiki/Haven_(episode)",
+    "stardate": "41294.5",
+    "num": "1x11",
+    "airdate": "1987-11-30",
+    "prodno": "41294.5"
+  },
+  {
+    "title": "The Big Goodbye",
+    "url": "/wiki/The_Big_Goodbye_(episode)",
+    "stardate": "41997.7",
+    "num": "1x12",
+    "airdate": "1988-01-11",
+    "prodno": "41997.7"
+  },
+  {
+    "title": "Datalore",
+    "url": "/wiki/Datalore_(episode)",
+    "stardate": "41242.4",
+    "num": "1x13",
+    "airdate": "1988-01-18",
+    "prodno": "41242.4"
+  },
+  {
+    "title": "Angel One",
+    "url": "/wiki/Angel_One_(episode)",
+    "stardate": "41636.9",
+    "num": "1x14",
+    "airdate": "1988-01-25",
+    "prodno": "41636.9"
+  },
+  {
+    "title": "11001001",
+    "url": "/wiki/11001001_(episode)",
+    "stardate": "41365.9",
+    "num": "1x15",
+    "airdate": "1988-02-01",
+    "prodno": "41365.9"
+  },
+  {
+    "title": "Too Short a Season",
+    "url": "/wiki/Too_Short_a_Season_(episode)",
+    "stardate": "41309.5",
+    "num": "1x16",
+    "airdate": "1988-02-08",
+    "prodno": "41309.5"
+  },
+  {
+    "title": "When The Bough Breaks",
+    "url": "/wiki/When_The_Bough_Breaks_(episode)",
+    "stardate": "41509.1",
+    "num": "1x17",
+    "airdate": "1988-02-15",
+    "prodno": "41509.1"
+  },
+  {
+    "title": "Home Soil",
+    "url": "/wiki/Home_Soil_(episode)",
+    "stardate": "41463.9",
+    "num": "1x18",
+    "airdate": "1988-02-22",
+    "prodno": "41463.9"
+  },
+  {
+    "title": "Coming of Age",
+    "url": "/wiki/Coming_of_Age_(episode)",
+    "stardate": "41461.2",
+    "num": "1x19",
+    "airdate": "1988-03-14",
+    "prodno": "41461.2"
+  },
+  {
+    "title": "Heart of Glory",
+    "url": "/wiki/Heart_of_Glory_(episode)",
+    "stardate": "41503.7",
+    "num": "1x20",
+    "airdate": "1988-03-21",
+    "prodno": "41503.7"
+  },
+  {
+    "title": "The Arsenal of Freedom",
+    "url": "/wiki/The_Arsenal_of_Freedom_(episode)",
+    "stardate": "41798.2",
+    "num": "1x21",
+    "airdate": "1988-04-11",
+    "prodno": "41798.2"
+  },
+  {
+    "title": "Symbiosis",
+    "url": "/wiki/Symbiosis_(episode)",
+    "stardate": "Unknown",
+    "num": "1x22",
+    "airdate": "1988-04-18",
+    "prodno": "Unknown"
+  },
+  {
+    "title": "Skin of Evil",
+    "url": "/wiki/Skin_of_Evil_(episode)",
+    "stardate": "41601.3",
+    "num": "1x23",
+    "airdate": "1988-04-25",
+    "prodno": "41601.3"
+  },
+  {
+    "title": "We'll Always Have Paris",
+    "url": "/wiki/We%27ll_Always_Have_Paris_(episode)",
+    "stardate": "41697.9",
+    "num": "1x24",
+    "airdate": "1988-05-02",
+    "prodno": "41697.9"
+  },
+  {
+    "title": "Conspiracy",
+    "url": "/wiki/Conspiracy_(episode)",
+    "stardate": "41775.5",
+    "num": "1x25",
+    "airdate": "1988-05-09",
+    "prodno": "41775.5"
+  },
+  {
+    "title": "The Neutral Zone",
+    "url": "/wiki/The_Neutral_Zone_(episode)",
+    "stardate": "41986.0",
+    "num": "1x26",
+    "airdate": "1988-05-16",
+    "prodno": "41986.0"
+  },
+  {
+    "title": "The Child",
+    "url": "/wiki/The_Child_(episode)",
+    "stardate": "42073.1",
+    "num": "2x01",
+    "airdate": "1988-11-21",
+    "prodno": "42073.1"
+  },
+  {
+    "title": "Where Silence Has Lease",
+    "url": "/wiki/Where_Silence_Has_Lease_(episode)",
+    "stardate": "42193.6",
+    "num": "2x02",
+    "airdate": "1988-11-28",
+    "prodno": "42193.6"
+  },
+  {
+    "title": "Elementary, Dear Data",
+    "url": "/wiki/Elementary,_Dear_Data_(episode)",
+    "stardate": "42286.3",
+    "num": "2x03",
+    "airdate": "1988-12-05",
+    "prodno": "42286.3"
+  },
+  {
+    "title": "The Outrageous Okona",
+    "url": "/wiki/The_Outrageous_Okona_(episode)",
+    "stardate": "42402.7",
+    "num": "2x04",
+    "airdate": "1988-12-12",
+    "prodno": "42402.7"
+  },
+  {
+    "title": "Loud As A Whisper",
+    "url": "/wiki/Loud_As_A_Whisper_(episode)",
+    "stardate": "42477.2",
+    "num": "2x05",
+    "airdate": "1989-01-09",
+    "prodno": "42477.2"
+  },
+  {
+    "title": "The Schizoid Man",
+    "url": "/wiki/The_Schizoid_Man_(episode)",
+    "stardate": "42437.5",
+    "num": "2x06",
+    "airdate": "1989-01-23",
+    "prodno": "42437.5"
+  },
+  {
+    "title": "Unnatural Selection",
+    "url": "/wiki/Unnatural_Selection_(episode)",
+    "stardate": "42494.8",
+    "num": "2x07",
+    "airdate": "1989-01-30",
+    "prodno": "42494.8"
+  },
+  {
+    "title": "A Matter Of Honor",
+    "url": "/wiki/A_Matter_Of_Honor_(episode)",
+    "stardate": "42506.5",
+    "num": "2x08",
+    "airdate": "1989-02-06",
+    "prodno": "42506.5"
+  },
+  {
+    "title": "The Measure Of A Man",
+    "url": "/wiki/The_Measure_Of_A_Man_(episode)",
+    "stardate": "42523.7",
+    "num": "2x09",
+    "airdate": "1989-02-13",
+    "prodno": "42523.7"
+  },
+  {
+    "title": "The Dauphin",
+    "url": "/wiki/The_Dauphin_(episode)",
+    "stardate": "42568.8",
+    "num": "2x10",
+    "airdate": "1989-02-20",
+    "prodno": "42568.8"
+  },
+  {
+    "title": "Contagion",
+    "url": "/wiki/Contagion_(episode)",
+    "stardate": "42609.1",
+    "num": "2x11",
+    "airdate": "1989-03-20",
+    "prodno": "42609.1"
+  },
+  {
+    "title": "The Royale",
+    "url": "/wiki/The_Royale_(episode)",
+    "stardate": "42625.4",
+    "num": "2x12",
+    "airdate": "1989-03-27",
+    "prodno": "42625.4"
+  },
+  {
+    "title": "Time Squared",
+    "url": "/wiki/Time_Squared_(episode)",
+    "stardate": "42679.2",
+    "num": "2x13",
+    "airdate": "1989-04-03",
+    "prodno": "42679.2"
+  },
+  {
+    "title": "The Icarus Factor",
+    "url": "/wiki/The_Icarus_Factor_(episode)",
+    "stardate": "42686.4",
+    "num": "2x14",
+    "airdate": "1989-04-24",
+    "prodno": "42686.4"
+  },
+  {
+    "title": "Pen Pals",
+    "url": "/wiki/Pen_Pals_(episode)",
+    "stardate": "42695.3",
+    "num": "2x15",
+    "airdate": "1989-05-01",
+    "prodno": "42695.3"
+  },
+  {
+    "title": "Q Who",
+    "url": "/wiki/Q_Who_(episode)",
+    "stardate": "42761.3",
+    "num": "2x16",
+    "airdate": "1989-05-08",
+    "prodno": "42761.3"
+  },
+  {
+    "title": "Samaritan Snare",
+    "url": "/wiki/Samaritan_Snare_(episode)",
+    "stardate": "42779.1",
+    "num": "2x17",
+    "airdate": "1989-05-15",
+    "prodno": "42779.1"
+  },
+  {
+    "title": "Up The Long Ladder",
+    "url": "/wiki/Up_The_Long_Ladder_(episode)",
+    "stardate": "42823.2",
+    "num": "2x18",
+    "airdate": "1989-05-22",
+    "prodno": "42823.2"
+  },
+  {
+    "title": "Manhunt",
+    "url": "/wiki/Manhunt_(episode)",
+    "stardate": "42859.2",
+    "num": "2x19",
+    "airdate": "1989-06-19",
+    "prodno": "42859.2"
+  },
+  {
+    "title": "The Emissary",
+    "url": "/wiki/The_Emissary_(episode)",
+    "stardate": "42901.3",
+    "num": "2x20",
+    "airdate": "1989-06-29",
+    "prodno": "42901.3"
+  },
+  {
+    "title": "Peak Performance",
+    "url": "/wiki/Peak_Performance_(episode)",
+    "stardate": "42923.4",
+    "num": "2x21",
+    "airdate": "1989-07-10",
+    "prodno": "42923.4"
+  },
+  {
+    "title": "Shades of Gray",
+    "url": "/wiki/Shades_of_Gray_(episode)",
+    "stardate": "42976.1",
+    "num": "2x22",
+    "airdate": "1989-07-17",
+    "prodno": "42976.1"
+  },
+  {
+    "title": "Evolution",
+    "url": "/wiki/Evolution_(episode)",
+    "stardate": "43125.8",
+    "num": "3x01",
+    "airdate": "1989-09-25",
+    "prodno": "43125.8"
+  },
+  {
+    "title": "The Ensigns of Command",
+    "url": "/wiki/The_Ensigns_of_Command_(episode)",
+    "stardate": "43133.3",
+    "num": "3x02",
+    "airdate": "1989-10-02",
+    "prodno": "43133.3"
+  },
+  {
+    "title": "The Survivors",
+    "url": "/wiki/The_Survivors_(episode)",
+    "stardate": "43152.4",
+    "num": "3x03",
+    "airdate": "1989-10-09",
+    "prodno": "43152.4"
+  },
+  {
+    "title": "Who Watches The Watchers",
+    "url": "/wiki/Who_Watches_The_Watchers_(episode)",
+    "stardate": "43173.5",
+    "num": "3x04",
+    "airdate": "1989-10-16",
+    "prodno": "43173.5"
+  },
+  {
+    "title": "The Bonding",
+    "url": "/wiki/The_Bonding_(episode)",
+    "stardate": "43198.7",
+    "num": "3x05",
+    "airdate": "1989-10-23",
+    "prodno": "43198.7"
+  },
+  {
+    "title": "Booby Trap",
+    "url": "/wiki/Booby_Trap_(episode)",
+    "stardate": "43205.6",
+    "num": "3x06",
+    "airdate": "1989-10-30",
+    "prodno": "43205.6"
+  },
+  {
+    "title": "The Enemy",
+    "url": "/wiki/The_Enemy_(episode)",
+    "stardate": "43349.2",
+    "num": "3x07",
+    "airdate": "1989-11-06",
+    "prodno": "43349.2"
+  },
+  {
+    "title": "The Price",
+    "url": "/wiki/The_Price_(episode)",
+    "stardate": "43385.6",
+    "num": "3x08",
+    "airdate": "1989-11-13",
+    "prodno": "43385.6"
+  },
+  {
+    "title": "The Vengeance Factor",
+    "url": "/wiki/The_Vengeance_Factor_(episode)",
+    "stardate": "43421.9",
+    "num": "3x09",
+    "airdate": "1989-11-20",
+    "prodno": "43421.9"
+  },
+  {
+    "title": "The Defector",
+    "url": "/wiki/The_Defector_(episode)",
+    "stardate": "43462.5",
+    "num": "3x10",
+    "airdate": "1990-01-01",
+    "prodno": "43462.5"
+  },
+  {
+    "title": "The Hunted",
+    "url": "/wiki/The_Hunted_(episode)",
+    "stardate": "43489.2",
+    "num": "3x11",
+    "airdate": "1990-01-08",
+    "prodno": "43489.2"
+  },
+  {
+    "title": "The High Ground",
+    "url": "/wiki/The_High_Ground_(episode)",
+    "stardate": "43510.7",
+    "num": "3x12",
+    "airdate": "1990-01-29",
+    "prodno": "43510.7"
+  },
+  {
+    "title": "Deja Q",
+    "url": "/wiki/Deja_Q_(episode)",
+    "stardate": "43539.1",
+    "num": "3x13",
+    "airdate": "1990-02-05",
+    "prodno": "43539.1"
+  },
+  {
+    "title": "A Matter of Perspective",
+    "url": "/wiki/A_Matter_of_Perspective_(episode)",
+    "stardate": "43610.4",
+    "num": "3x14",
+    "airdate": "1990-02-12",
+    "prodno": "43610.4"
+  },
+  {
+    "title": "Yesterday's Enterprise",
+    "url": "/wiki/Yesterday%27s_Enterprise_(episode)",
+    "stardate": "43625.2",
+    "num": "3x15",
+    "airdate": "1990-02-19",
+    "prodno": "43625.2"
+  },
+  {
+    "title": "The Offspring",
+    "url": "/wiki/The_Offspring_(episode)",
+    "stardate": "43657.0",
+    "num": "3x16",
+    "airdate": "1990-03-12",
+    "prodno": "43657.0"
+  },
+  {
+    "title": "Sins of the Father",
+    "url": "/wiki/Sins_of_the_Father_(episode)",
+    "stardate": "43685.2",
+    "num": "3x17",
+    "airdate": "1990-03-19",
+    "prodno": "43685.2"
+  },
+  {
+    "title": "Allegiance",
+    "url": "/wiki/Allegiance_(episode)",
+    "stardate": "43714.1",
+    "num": "3x18",
+    "airdate": "1990-03-26",
+    "prodno": "43714.1"
+  },
+  {
+    "title": "Captain's Holiday",
+    "url": "/wiki/Captain%27s_Holiday_(episode)",
+    "stardate": "43745.2",
+    "num": "3x19",
+    "airdate": "1990-04-02",
+    "prodno": "43745.2"
+  },
+  {
+    "title": "Tin Man",
+    "url": "/wiki/Tin_Man_(episode)",
+    "stardate": "43779.3",
+    "num": "3x20",
+    "airdate": "1990-04-23",
+    "prodno": "43779.3"
+  },
+  {
+    "title": "Hollow Pursuits",
+    "url": "/wiki/Hollow_Pursuits_(episode)",
+    "stardate": "43807.4",
+    "num": "3x21",
+    "airdate": "1990-04-30",
+    "prodno": "43807.4"
+  },
+  {
+    "title": "The Most Toys",
+    "url": "/wiki/The_Most_Toys_(episode)",
+    "stardate": "43872.2",
+    "num": "3x22",
+    "airdate": "1990-05-07",
+    "prodno": "43872.2"
+  },
+  {
+    "title": "Sarek",
+    "url": "/wiki/Sarek_(episode)",
+    "stardate": "43917.4",
+    "num": "3x23",
+    "airdate": "1990-05-14",
+    "prodno": "43917.4"
+  },
+  {
+    "title": "Ménage à Troi",
+    "url": "/wiki/M%C3%A9nage_%C3%A0_Troi_(episode)",
+    "stardate": "43930.7",
+    "num": "3x24",
+    "airdate": "1990-05-28",
+    "prodno": "43930.7"
+  },
+  {
+    "title": "Transfigurations",
+    "url": "/wiki/Transfigurations_(episode)",
+    "stardate": "43957.2",
+    "num": "3x25",
+    "airdate": "1990-06-04",
+    "prodno": "43957.2"
+  },
+  {
+    "title": "The Best of Both Worlds",
+    "url": "/wiki/The_Best_of_Both_Worlds_(episode)",
+    "stardate": "43989.1",
+    "num": "3x26",
+    "airdate": "1990-06-18",
+    "prodno": "43989.1"
+  },
+  {
+    "title": "The Best of Both Worlds, Part II",
+    "url": "/wiki/The_Best_of_Both_Worlds,_Part_II_(episode)",
+    "stardate": "44001.4",
+    "num": "4x01",
+    "airdate": "1990-09-24",
+    "prodno": "44001.4"
+  },
+  {
+    "title": "Family",
+    "url": "/wiki/Family_(episode)",
+    "stardate": "44012.3",
+    "num": "4x02",
+    "airdate": "1990-10-01",
+    "prodno": "44012.3"
+  },
+  {
+    "title": "Brothers",
+    "url": "/wiki/Brothers_(episode)",
+    "stardate": "44085.7",
+    "num": "4x03",
+    "airdate": "1990-10-08",
+    "prodno": "44085.7"
+  },
+  {
+    "title": "Suddenly Human",
+    "url": "/wiki/Suddenly_Human_(episode)",
+    "stardate": "44143.7",
+    "num": "4x04",
+    "airdate": "1990-10-15",
+    "prodno": "44143.7"
+  },
+  {
+    "title": "Remember Me",
+    "url": "/wiki/Remember_Me_(episode)",
+    "stardate": "44161.2",
+    "num": "4x05",
+    "airdate": "1990-10-22",
+    "prodno": "44161.2"
+  },
+  {
+    "title": "Legacy",
+    "url": "/wiki/Legacy_(episode)",
+    "stardate": "44215.2",
+    "num": "4x06",
+    "airdate": "1990-10-29",
+    "prodno": "44215.2"
+  },
+  {
+    "title": "Reunion",
+    "url": "/wiki/Reunion_(episode)",
+    "stardate": "44246.3",
+    "num": "4x07",
+    "airdate": "1990-11-05",
+    "prodno": "44246.3"
+  },
+  {
+    "title": "Future Imperfect",
+    "url": "/wiki/Future_Imperfect_(episode)",
+    "stardate": "44286.5",
+    "num": "4x08",
+    "airdate": "1990-11-12",
+    "prodno": "44286.5"
+  },
+  {
+    "title": "Final Mission",
+    "url": "/wiki/Final_Mission_(episode)",
+    "stardate": "44307.3",
+    "num": "4x09",
+    "airdate": "1990-11-19",
+    "prodno": "44307.3"
+  },
+  {
+    "title": "The Loss",
+    "url": "/wiki/The_Loss_(episode)",
+    "stardate": "44356.9",
+    "num": "4x10",
+    "airdate": "1990-12-31",
+    "prodno": "44356.9"
+  },
+  {
+    "title": "Data's Day",
+    "url": "/wiki/Data%27s_Day_(episode)",
+    "stardate": "44390.1",
+    "num": "4x11",
+    "airdate": "1991-01-07",
+    "prodno": "44390.1"
+  },
+  {
+    "title": "The Wounded",
+    "url": "/wiki/The_Wounded_(episode)",
+    "stardate": "44429.6",
+    "num": "4x12",
+    "airdate": "1991-01-28",
+    "prodno": "44429.6"
+  },
+  {
+    "title": "Devil's Due",
+    "url": "/wiki/Devil%27s_Due_(episode)",
+    "stardate": "44474.5",
+    "num": "4x13",
+    "airdate": "1991-02-04",
+    "prodno": "44474.5"
+  },
+  {
+    "title": "Clues",
+    "url": "/wiki/Clues_(episode)",
+    "stardate": "44502.7",
+    "num": "4x14",
+    "airdate": "1991-02-11",
+    "prodno": "44502.7"
+  },
+  {
+    "title": "First Contact",
+    "url": "/wiki/First_Contact_(episode)",
+    "stardate": "Unknown",
+    "num": "4x15",
+    "airdate": "1991-02-18",
+    "prodno": "Unknown"
+  },
+  {
+    "title": "Galaxy's Child",
+    "url": "/wiki/Galaxy%27s_Child_(episode)",
+    "stardate": "44614.6",
+    "num": "4x16",
+    "airdate": "1991-03-11",
+    "prodno": "44614.6"
+  },
+  {
+    "title": "Night Terrors",
+    "url": "/wiki/Night_Terrors_(episode)",
+    "stardate": "44631.2",
+    "num": "4x17",
+    "airdate": "1991-03-18",
+    "prodno": "44631.2"
+  },
+  {
+    "title": "Identity Crisis",
+    "url": "/wiki/Identity_Crisis_(episode)",
+    "stardate": "44664.5",
+    "num": "4x18",
+    "airdate": "1991-03-25",
+    "prodno": "44664.5"
+  },
+  {
+    "title": "The Nth Degree",
+    "url": "/wiki/The_Nth_Degree_(episode)",
+    "stardate": "44704.2",
+    "num": "4x19",
+    "airdate": "1991-04-01",
+    "prodno": "44704.2"
+  },
+  {
+    "title": "Qpid",
+    "url": "/wiki/Qpid_(episode)",
+    "stardate": "44741.9",
+    "num": "4x20",
+    "airdate": "1991-04-22",
+    "prodno": "44741.9"
+  },
+  {
+    "title": "The Drumhead",
+    "url": "/wiki/The_Drumhead_(episode)",
+    "stardate": "44769.2",
+    "num": "4x21",
+    "airdate": "1991-04-29",
+    "prodno": "44769.2"
+  },
+  {
+    "title": "Half a Life",
+    "url": "/wiki/Half_a_Life_(episode)",
+    "stardate": "44805.3",
+    "num": "4x22",
+    "airdate": "1991-05-06",
+    "prodno": "44805.3"
+  },
+  {
+    "title": "The Host",
+    "url": "/wiki/The_Host_(episode)",
+    "stardate": "44821.3",
+    "num": "4x23",
+    "airdate": "1991-05-13",
+    "prodno": "44821.3"
+  },
+  {
+    "title": "The Mind's Eye",
+    "url": "/wiki/The_Mind%27s_Eye_(episode)",
+    "stardate": "44885.5",
+    "num": "4x24",
+    "airdate": "1991-05-27",
+    "prodno": "44885.5"
+  },
+  {
+    "title": "In Theory",
+    "url": "/wiki/In_Theory_(episode)",
+    "stardate": "44932.3",
+    "num": "4x25",
+    "airdate": "1991-06-03",
+    "prodno": "44932.3"
+  },
+  {
+    "title": "Redemption",
+    "url": "/wiki/Redemption_(episode)",
+    "stardate": "44995.3",
+    "num": "4x26",
+    "airdate": "1991-06-17",
+    "prodno": "44995.3"
+  },
+  {
+    "title": "Redemption II",
+    "url": "/wiki/Redemption_II_(episode)",
+    "stardate": "45020.4",
+    "num": "5x01",
+    "airdate": "1991-09-23",
+    "prodno": "45020.4"
+  },
+  {
+    "title": "Darmok",
+    "url": "/wiki/Darmok_(episode)",
+    "stardate": "45047.2",
+    "num": "5x02",
+    "airdate": "1991-09-30",
+    "prodno": "45047.2"
+  },
+  {
+    "title": "Ensign Ro",
+    "url": "/wiki/Ensign_Ro_(episode)",
+    "stardate": "45076.3",
+    "num": "5x03",
+    "airdate": "1991-10-07",
+    "prodno": "45076.3"
+  },
+  {
+    "title": "Silicon Avatar",
+    "url": "/wiki/Silicon_Avatar_(episode)",
+    "stardate": "45122.3",
+    "num": "5x04",
+    "airdate": "1991-10-14",
+    "prodno": "45122.3"
+  },
+  {
+    "title": "Disaster",
+    "url": "/wiki/Disaster_(episode)",
+    "stardate": "45156.1",
+    "num": "5x05",
+    "airdate": "1991-10-21",
+    "prodno": "45156.1"
+  },
+  {
+    "title": "The Game",
+    "url": "/wiki/The_Game_(episode)",
+    "stardate": "45208.2",
+    "num": "5x06",
+    "airdate": "1991-10-28",
+    "prodno": "45208.2"
+  },
+  {
+    "title": "Unification I",
+    "url": "/wiki/Unification_I_(episode)",
+    "stardate": "45236.4",
+    "num": "5x07",
+    "airdate": "1991-11-04",
+    "prodno": "45236.4"
+  },
+  {
+    "title": "Unification II",
+    "url": "/wiki/Unification_II_(episode)",
+    "stardate": "45245.8",
+    "num": "5x08",
+    "airdate": "1991-11-11",
+    "prodno": "45245.8"
+  },
+  {
+    "title": "A Matter of Time",
+    "url": "/wiki/A_Matter_of_Time_(episode)",
+    "stardate": "45349.1",
+    "num": "5x09",
+    "airdate": "1991-11-18",
+    "prodno": "45349.1"
+  },
+  {
+    "title": "New Ground",
+    "url": "/wiki/New_Ground_(episode)",
+    "stardate": "45376.3",
+    "num": "5x10",
+    "airdate": "1992-01-06",
+    "prodno": "45376.3"
+  },
+  {
+    "title": "Hero Worship",
+    "url": "/wiki/Hero_Worship_(episode)",
+    "stardate": "45397.3",
+    "num": "5x11",
+    "airdate": "1992-01-27",
+    "prodno": "45397.3"
+  },
+  {
+    "title": "Violations",
+    "url": "/wiki/Violations_(episode)",
+    "stardate": "45429.3",
+    "num": "5x12",
+    "airdate": "1992-02-03",
+    "prodno": "45429.3"
+  },
+  {
+    "title": "The Masterpiece Society",
+    "url": "/wiki/The_Masterpiece_Society_(episode)",
+    "stardate": "45470.1",
+    "num": "5x13",
+    "airdate": "1992-02-10",
+    "prodno": "45470.1"
+  },
+  {
+    "title": "Conundrum",
+    "url": "/wiki/Conundrum_(episode)",
+    "stardate": "45494.2",
+    "num": "5x14",
+    "airdate": "1992-02-17",
+    "prodno": "45494.2"
+  },
+  {
+    "title": "Power Play",
+    "url": "/wiki/Power_Play_(episode)",
+    "stardate": "45571.2",
+    "num": "5x15",
+    "airdate": "1992-02-24",
+    "prodno": "45571.2"
+  },
+  {
+    "title": "Ethics",
+    "url": "/wiki/Ethics_(episode)",
+    "stardate": "45587.3",
+    "num": "5x16",
+    "airdate": "1992-03-02",
+    "prodno": "45587.3"
+  },
+  {
+    "title": "The Outcast",
+    "url": "/wiki/The_Outcast_(episode)",
+    "stardate": "45614.6",
+    "num": "5x17",
+    "airdate": "1992-03-16",
+    "prodno": "45614.6"
+  },
+  {
+    "title": "Cause and Effect",
+    "url": "/wiki/Cause_and_Effect_(episode)",
+    "stardate": "45652.1",
+    "num": "5x18",
+    "airdate": "1992-03-23",
+    "prodno": "45652.1"
+  },
+  {
+    "title": "The First Duty",
+    "url": "/wiki/The_First_Duty_(episode)",
+    "stardate": "45703.9",
+    "num": "5x19",
+    "airdate": "1992-03-30",
+    "prodno": "45703.9"
+  },
+  {
+    "title": "Cost of Living",
+    "url": "/wiki/Cost_of_Living_(episode)",
+    "stardate": "45733.6",
+    "num": "5x20",
+    "airdate": "1992-04-20",
+    "prodno": "45733.6"
+  },
+  {
+    "title": "The Perfect Mate",
+    "url": "/wiki/The_Perfect_Mate_(episode)",
+    "stardate": "45761.3",
+    "num": "5x21",
+    "airdate": "1992-04-27",
+    "prodno": "45761.3"
+  },
+  {
+    "title": "Imaginary Friend",
+    "url": "/wiki/Imaginary_Friend_(episode)",
+    "stardate": "45832.1",
+    "num": "5x22",
+    "airdate": "1992-05-04",
+    "prodno": "45832.1"
+  },
+  {
+    "title": "I Borg",
+    "url": "/wiki/I_Borg_(episode)",
+    "stardate": "45854.2",
+    "num": "5x23",
+    "airdate": "1992-05-11",
+    "prodno": "45854.2"
+  },
+  {
+    "title": "The Next Phase",
+    "url": "/wiki/The_Next_Phase_(episode)",
+    "stardate": "45892.4",
+    "num": "5x24",
+    "airdate": "1992-05-18",
+    "prodno": "45892.4"
+  },
+  {
+    "title": "The Inner Light",
+    "url": "/wiki/The_Inner_Light_(episode)",
+    "stardate": "45944.1",
+    "num": "5x25",
+    "airdate": "1992-06-01",
+    "prodno": "45944.1"
+  },
+  {
+    "title": "Time's Arrow",
+    "url": "/wiki/Time%27s_Arrow_(episode)",
+    "stardate": "45959.1",
+    "num": "5x26",
+    "airdate": "1992-06-15",
+    "prodno": "45959.1"
+  },
+  {
+    "title": "Time's Arrow, Part II",
+    "url": "/wiki/Time%27s_Arrow,_Part_II_(episode)",
+    "stardate": "46001.3",
+    "num": "6x01",
+    "airdate": "1992-09-21",
+    "prodno": "46001.3"
+  },
+  {
+    "title": "Realm of Fear",
+    "url": "/wiki/Realm_of_Fear_(episode)",
+    "stardate": "46041.1",
+    "num": "6x02",
+    "airdate": "1992-09-28",
+    "prodno": "46041.1"
+  },
+  {
+    "title": "Man of the People",
+    "url": "/wiki/Man_of_the_People_(episode)",
+    "stardate": "46071.6",
+    "num": "6x03",
+    "airdate": "1992-10-05",
+    "prodno": "46071.6"
+  },
+  {
+    "title": "Relics",
+    "url": "/wiki/Relics_(episode)",
+    "stardate": "46125.3",
+    "num": "6x04",
+    "airdate": "1992-10-12",
+    "prodno": "46125.3"
+  },
+  {
+    "title": "Schisms",
+    "url": "/wiki/Schisms_(episode)",
+    "stardate": "46154.2",
+    "num": "6x05",
+    "airdate": "1992-10-19",
+    "prodno": "46154.2"
+  },
+  {
+    "title": "True Q",
+    "url": "/wiki/True_Q_(episode)",
+    "stardate": "46192.3",
+    "num": "6x06",
+    "airdate": "1992-10-26",
+    "prodno": "46192.3"
+  },
+  {
+    "title": "Rascals",
+    "url": "/wiki/Rascals_(episode)",
+    "stardate": "46235.7",
+    "num": "6x07",
+    "airdate": "1992-11-02",
+    "prodno": "46235.7"
+  },
+  {
+    "title": "A Fistful of Datas",
+    "url": "/wiki/A_Fistful_of_Datas_(episode)",
+    "stardate": "46271.5",
+    "num": "6x08",
+    "airdate": "1992-11-07",
+    "prodno": "46271.5"
+  },
+  {
+    "title": "The Quality of Life",
+    "url": "/wiki/The_Quality_of_Life_(episode)",
+    "stardate": "46307.2",
+    "num": "6x09",
+    "airdate": "1992-11-14",
+    "prodno": "46307.2"
+  },
+  {
+    "title": "Chain of Command, Part I",
+    "url": "/wiki/Chain_of_Command,_Part_I_(episode)",
+    "stardate": "46357.4",
+    "num": "6x10",
+    "airdate": "1992-12-14",
+    "prodno": "46357.4"
+  },
+  {
+    "title": "Chain of Command, Part II",
+    "url": "/wiki/Chain_of_Command,_Part_II_(episode)",
+    "stardate": "46360.8",
+    "num": "6x11",
+    "airdate": "1992-12-21",
+    "prodno": "46360.8"
+  },
+  {
+    "title": "Ship in a Bottle",
+    "url": "/wiki/Ship_in_a_Bottle_(episode)",
+    "stardate": "46424.1",
+    "num": "6x12",
+    "airdate": "1993-01-25",
+    "prodno": "46424.1"
+  },
+  {
+    "title": "Aquiel",
+    "url": "/wiki/Aquiel_(episode)",
+    "stardate": "46461.3",
+    "num": "6x13",
+    "airdate": "1993-02-01",
+    "prodno": "46461.3"
+  },
+  {
+    "title": "Face of the Enemy",
+    "url": "/wiki/Face_of_the_Enemy_(episode)",
+    "stardate": "46519.0",
+    "num": "6x14",
+    "airdate": "1993-02-08",
+    "prodno": "46519.0"
+  },
+  {
+    "title": "Tapestry",
+    "url": "/wiki/Tapestry_(episode)",
+    "stardate": "Unknown",
+    "num": "6x15",
+    "airdate": "1993-02-15",
+    "prodno": "Unknown"
+  },
+  {
+    "title": "Birthright, Part I",
+    "url": "/wiki/Birthright,_Part_I_(episode)",
+    "stardate": "46578.4",
+    "num": "6x16",
+    "airdate": "1993-02-22",
+    "prodno": "46578.4"
+  },
+  {
+    "title": "Birthright, Part II",
+    "url": "/wiki/Birthright,_Part_II_(episode)",
+    "stardate": "46579.2",
+    "num": "6x17",
+    "airdate": "1993-03-01",
+    "prodno": "46579.2"
+  },
+  {
+    "title": "Starship Mine",
+    "url": "/wiki/Starship_Mine_(episode)",
+    "stardate": "46682.4",
+    "num": "6x18",
+    "airdate": "1993-03-29",
+    "prodno": "46682.4"
+  },
+  {
+    "title": "Lessons",
+    "url": "/wiki/Lessons_(episode)",
+    "stardate": "46693.1",
+    "num": "6x19",
+    "airdate": "1993-04-05",
+    "prodno": "46693.1"
+  },
+  {
+    "title": "The Chase",
+    "url": "/wiki/The_Chase_(episode)",
+    "stardate": "46731.5",
+    "num": "6x20",
+    "airdate": "1993-04-26",
+    "prodno": "46731.5"
+  },
+  {
+    "title": "Frame of Mind",
+    "url": "/wiki/Frame_of_Mind_(episode)",
+    "stardate": "46778.1",
+    "num": "6x21",
+    "airdate": "1993-05-02",
+    "prodno": "46778.1"
+  },
+  {
+    "title": "Suspicions",
+    "url": "/wiki/Suspicions_(episode)",
+    "stardate": "46830.1",
+    "num": "6x22",
+    "airdate": "1993-05-10",
+    "prodno": "46830.1"
+  },
+  {
+    "title": "Rightful Heir",
+    "url": "/wiki/Rightful_Heir_(episode)",
+    "stardate": "46852.2",
+    "num": "6x23",
+    "airdate": "1993-05-17",
+    "prodno": "46852.2"
+  },
+  {
+    "title": "Second Chances",
+    "url": "/wiki/Second_Chances_(episode)",
+    "stardate": "46915.2",
+    "num": "6x24",
+    "airdate": "1993-05-24",
+    "prodno": "46915.2"
+  },
+  {
+    "title": "Timescape",
+    "url": "/wiki/Timescape_(episode)",
+    "stardate": "46944.2",
+    "num": "6x25",
+    "airdate": "1993-06-12",
+    "prodno": "46944.2"
+  },
+  {
+    "title": "Descent",
+    "url": "/wiki/Descent_(episode)",
+    "stardate": "46982.1",
+    "num": "6x26",
+    "airdate": "1993-06-21",
+    "prodno": "46982.1"
+  },
+  {
+    "title": "Descent, Part II",
+    "url": "/wiki/Descent,_Part_II_(episode)",
+    "stardate": "47025.4",
+    "num": "7x01",
+    "airdate": "1993-09-18",
+    "prodno": "47025.4"
+  },
+  {
+    "title": "Liaisons",
+    "url": "/wiki/Liaisons_(episode)",
+    "stardate": "Unknown",
+    "num": "7x02",
+    "airdate": "1993-09-25",
+    "prodno": "Unknown"
+  },
+  {
+    "title": "Interface",
+    "url": "/wiki/Interface_(episode)",
+    "stardate": "47215.5",
+    "num": "7x03",
+    "airdate": "1993-10-04",
+    "prodno": "47215.5"
+  },
+  {
+    "title": "Gambit, Part I",
+    "url": "/wiki/Gambit,_Part_I_(episode)",
+    "stardate": "47135.2",
+    "num": "7x04",
+    "airdate": "1993-10-09",
+    "prodno": "47135.2"
+  },
+  {
+    "title": "Gambit, Part II",
+    "url": "/wiki/Gambit,_Part_II_(episode)",
+    "stardate": "47160.1",
+    "num": "7x05",
+    "airdate": "1993-10-16",
+    "prodno": "47160.1"
+  },
+  {
+    "title": "Phantasms",
+    "url": "/wiki/Phantasms_(episode)",
+    "stardate": "47225.7",
+    "num": "7x06",
+    "airdate": "1993-10-23",
+    "prodno": "47225.7"
+  },
+  {
+    "title": "Dark Page",
+    "url": "/wiki/Dark_Page_(episode)",
+    "stardate": "47254.1",
+    "num": "7x07",
+    "airdate": "1993-10-30",
+    "prodno": "47254.1"
+  },
+  {
+    "title": "Attached",
+    "url": "/wiki/Attached_(episode)",
+    "stardate": "47304.2",
+    "num": "7x08",
+    "airdate": "1993-11-06",
+    "prodno": "47304.2"
+  },
+  {
+    "title": "Force of Nature",
+    "url": "/wiki/Force_of_Nature_(episode)",
+    "stardate": "47310.2",
+    "num": "7x09",
+    "airdate": "1993-11-15",
+    "prodno": "47310.2"
+  },
+  {
+    "title": "Inheritance",
+    "url": "/wiki/Inheritance_(episode)",
+    "stardate": "47410.2",
+    "num": "7x10",
+    "airdate": "1993-11-22",
+    "prodno": "47410.2"
+  },
+  {
+    "title": "Parallels",
+    "url": "/wiki/Parallels_(episode)",
+    "stardate": "47391.2",
+    "num": "7x11",
+    "airdate": "1993-11-27",
+    "prodno": "47391.2"
+  },
+  {
+    "title": "The Pegasus",
+    "url": "/wiki/The_Pegasus_(episode)",
+    "stardate": "47457.1",
+    "num": "7x12",
+    "airdate": "1994-01-10",
+    "prodno": "47457.1"
+  },
+  {
+    "title": "Homeward",
+    "url": "/wiki/Homeward_(episode)",
+    "stardate": "47423.9",
+    "num": "7x13",
+    "airdate": "1994-01-15",
+    "prodno": "47423.9"
+  },
+  {
+    "title": "Sub Rosa",
+    "url": "/wiki/Sub_Rosa_(episode)",
+    "stardate": "Unknown",
+    "num": "7x14",
+    "airdate": "1994-01-31",
+    "prodno": "Unknown"
+  },
+  {
+    "title": "Lower Decks",
+    "url": "/wiki/Lower_Decks_(episode)",
+    "stardate": "47566.7",
+    "num": "7x15",
+    "airdate": "1994-02-07",
+    "prodno": "47566.7"
+  },
+  {
+    "title": "Thine Own Self",
+    "url": "/wiki/Thine_Own_Self_(episode)",
+    "stardate": "47611.2",
+    "num": "7x16",
+    "airdate": "1994-02-14",
+    "prodno": "47611.2"
+  },
+  {
+    "title": "Masks",
+    "url": "/wiki/Masks_(episode)",
+    "stardate": "47615.2",
+    "num": "7x17",
+    "airdate": "1994-02-19",
+    "prodno": "47615.2"
+  },
+  {
+    "title": "Eye of the Beholder",
+    "url": "/wiki/Eye_of_the_Beholder_(episode)",
+    "stardate": "47622.1",
+    "num": "7x18",
+    "airdate": "1994-02-26",
+    "prodno": "47622.1"
+  },
+  {
+    "title": "Genesis",
+    "url": "/wiki/Genesis_(episode)",
+    "stardate": "47653.2",
+    "num": "7x19",
+    "airdate": "1994-03-19",
+    "prodno": "47653.2"
+  },
+  {
+    "title": "Journey's End",
+    "url": "/wiki/Journey%27s_End_(episode)",
+    "stardate": "47751.2",
+    "num": "7x20",
+    "airdate": "1994-03-26",
+    "prodno": "47751.2"
+  },
+  {
+    "title": "Firstborn",
+    "url": "/wiki/Firstborn_(episode)",
+    "stardate": "47779.4",
+    "num": "7x21",
+    "airdate": "1994-04-23",
+    "prodno": "47779.4"
+  },
+  {
+    "title": "Bloodlines",
+    "url": "/wiki/Bloodlines_(episode)",
+    "stardate": "47829.1",
+    "num": "7x22",
+    "airdate": "1994-04-30",
+    "prodno": "47829.1"
+  },
+  {
+    "title": "Emergence",
+    "url": "/wiki/Emergence_(episode)",
+    "stardate": "47869.2",
+    "num": "7x23",
+    "airdate": "1994-05-07",
+    "prodno": "47869.2"
+  },
+  {
+    "title": "Preemptive Strike",
+    "url": "/wiki/Preemptive_Strike_(episode)",
+    "stardate": "47941.7",
+    "num": "7x24",
+    "airdate": "1994-05-14",
+    "prodno": "47941.7"
+  },
+  {
+    "title": "All Good Things...",
+    "url": "/wiki/All_Good_Things..._(episode)",
+    "stardate": "47988.0",
+    "num": "7x25/26",
+    "airdate": "1994-05-23",
+    "prodno": "47988.0"
+  }
+]
