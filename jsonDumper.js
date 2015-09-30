@@ -9,7 +9,6 @@ var Episode = models.Episode
 var EpisodeTag = models.EpisodeTag
 
 getEpisodeJSONs().then(function(json){
-    console.log(json);
     var outputPath = path.join(__dirname, 'simple_output.json')
     fs.writeFileSync(outputPath, JSON.stringify(json,null,2));
     return knex.destroy();
@@ -24,28 +23,26 @@ function getEpisodeJSONs(){
 
         // WHERE WE FORMAT TAG JSON
         tags = tags.map(function(oldTag){
-          return {
-            id: oldTag.id,
-            attributes: oldTag.attributes,
-            relationships: {
-              episodes: {
-                data: episodes.filter(function(ep){
-                  var found = false
-                  ep.relationships.tags.data.forEach(function(rel){
-                    if (rel.type === 'tag' && rel.id === oldTag.id){
-                      found = true
-                    }
-                  })
-                  return found
-                }).map(function(ep){
-                  return {
-                    type: 'episode',
-                    id: ep.id
+          oldTag.type = 'tag'
+          oldTag.relationships = {
+            episodes: {
+              data: episodes.filter(function(ep){
+                var found = false
+                ep.tags.forEach(function(rel){
+                  if (rel.type === 'tag' && rel.id === oldTag.id){
+                    found = true
                   }
                 })
-              }
+                return found
+              }).map(function(ep){
+                return {
+                  type: 'episode',
+                  id: ep.id
+                }
+              })
             }
           }
+          return oldTag
         })
 
         return {
@@ -63,20 +60,13 @@ function joinTagList (episode) {
   }).fetchAll().then(function(episodeTags){
 
     // WHERE WE FORMAT EPISODE JSON
-    return {
-      id: episode.id,
-      type: 'episode',
-      attributes: episode,
-      relationships: {
-        tags: {
-          data: episodeTags.map(function(epTag){
-            return {
-              type: 'tag',
-              id: epTag.attributes.tag_id
-            }
-          })
-        }
+    episode.type = 'episode'
+    episode.tags = episodeTags.map(function(epTag){
+      return {
+        type: 'tag',
+        id: epTag.attributes.tag_id
       }
-    }
+    })
+    return episode
   });
 }
