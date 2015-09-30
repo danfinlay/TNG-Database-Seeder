@@ -1,42 +1,16 @@
 var fs = require('fs')
 var path = require('path')
 
-var conString = "postgres://postgres@localhost/tng";
-var knex = require('knex')({
-  client: 'pg',
-  connection: conString,
-  pool: {
-    min: 1,
-    max: 10,
-  }
-})
-var bookshelf = require('bookshelf')(knex)
-
-var EpisodeTag = bookshelf.Model.extend({
-  tableName: 'episode_tags'
-})
-var Tag = bookshelf.Model.extend({
-  tableName: 'tags',
-  episodeTags: function(){
-    return this.belongsToMany(EpisodeTag)
-  },
-  episodes: function(){
-    return this.belongsToMany(Episode).through(EpisodeTag)
-  }
-})
-var Episode = bookshelf.Model.extend({
-  tableName: 'episodes',
-  episodeTags: function(){
-    return this.belongsToMany(EpisodeTag)
-  },
-  tags: function(){
-    return this.belongsToMany(Tag).through(EpisodeTag)
-  }
-})
+var models = require('./lib/models')
+var knex = models.knex
+var bookshelf = models.bookshelf
+var Tag = models.Tag
+var Episode = models.Episode
+var EpisodeTag = models.EpisodeTag
 
 getEpisodeJSONs().then(function(json){
     console.log(json);
-    var outputPath = path.join(__dirname, 'output.json')
+    var outputPath = path.join(__dirname, 'simple_output.json')
     fs.writeFileSync(outputPath, JSON.stringify(json,null,2));
     return knex.destroy();
 })

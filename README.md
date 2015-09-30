@@ -2,6 +2,18 @@
 
 Enjoy the output in either sql format (`output.sql`), or json (`output.json`).
 
+## Stats
+
+ - `176` episodes (multi-part episodes listed as single entries)
+ - `6237` tags
+ - `10686` associations between episodes and tags (the `episode_tags` table).
+
+If we exclude all tags that only relate to a single episode (`simple_output.*`), those numbers drop to:
+
+ - `176` episodes (multi-part episodes listed as single entries)
+ - `1393` tags.
+ - `5842` associations between episodes and tags (the `episode_tags` table).
+
 ## Sample Queries
 
 Request the first 10 'holodeck' episodes:
@@ -66,6 +78,20 @@ Unnamed plants            |        23
 A Midsummer Night's Dream |        23
 bridge                    |        22
 (20 rows)
+```
+In order to delete all tags that only relate to a single episode:
+```sql
+# Delete tags with less than one episode:
+DELETE FROM tags tag
+WHERE NOT EXISTS (
+  SELECT * FROM episode_tags
+  WHERE episode_tags.tag_id = tag.id
+  OFFSET 1
+);
+DELETE FROM episode_tags
+WHERE tag_id NOT IN (
+  SELECT id FROM tags
+);
 ```
 
 ## Running script
