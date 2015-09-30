@@ -2,6 +2,8 @@
 
 Enjoy the output in either sql format (`output.sql`), or json (`output.json`).
 
+Also output a version that excludes tags with less than 1 episode relationship as `simple_output.sql`, and the equivalent json but following the [JSON-API](http://jsonapi.org/format/#document-links) standard in `simple_output.json`.
+
 ## Stats
 
  - `176` episodes (multi-part episodes listed as single entries)
@@ -21,7 +23,7 @@ Request the first 10 'holodeck' episodes:
 SELECT num, title FROM episodes
 WHERE id IN (
  SELECT episode_id FROM episode_tags
- WHERE tag_id IN (                                               
+ WHERE tag_id IN (
    SELECT id FROM tags
    WHERE title LIKE 'holodeck'
   )

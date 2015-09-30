@@ -21,9 +21,36 @@ function getEpisodeJSONs(){
     return Promise.all(promises)
     .then(function(episodes){
       return new Tag().fetchAll().then(function(tags){
+
+        // WHERE WE FORMAT TAG JSON
+        tags = tags.map(function(oldTag){
+          return {
+            id: oldTag.id,
+            attributes: oldTag.attributes,
+            relationships: {
+              episodes: {
+                data: episodes.filter(function(ep){
+                  var found = false
+                  ep.relationships.tags.data.forEach(function(rel){
+                    if (rel.type === 'tag' && rel.id === oldTag.id){
+                      found = true
+                    }
+                  })
+                  return found
+                }).map(function(ep){
+                  return {
+                    type: 'episode',
+                    id: ep.id
+                  }
+                })
+              }
+            }
+          }
+        })
+
         return {
-          episodes:episodes,
-          tags: tags.toJSON()
+          episodes: episodes,
+          tags: tags
         }
       })
     })
@@ -34,11 +61,22 @@ function joinTagList (episode) {
   return new EpisodeTag().where({
     episode_id: episode.id
   }).fetchAll().then(function(episodeTags){
-    // console.dir(episode)
-    // console.dir(episodeTags)
-    episode.tags = episodeTags.map(function(epTag){
-      return epTag.attributes.tag_id
-    })
-    return episode
+
+    // WHERE WE FORMAT EPISODE JSON
+    return {
+      id: episode.id,
+      type: 'episode',
+      attributes: episode,
+      relationships: {
+        tags: {
+          data: episodeTags.map(function(epTag){
+            return {
+              type: 'tag',
+              id: epTag.attributes.tag_id
+            }
+          })
+        }
+      }
+    }
   });
 }
